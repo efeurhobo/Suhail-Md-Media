@@ -20,10 +20,10 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Empire_Md
+   * @author : 𝐻𝑎𝑐𝑘𝑒𝑟 𝑂𝑛𝑙𝑦_𝑜𝑛𝑒_🥇𝐸𝑚𝑝𝑖𝑟𝑒
+   * @youtube : https://www.youtube.com/c/@only_one_empire
+   * @infoription : Empire_Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.2 
 *
    * Licensed under the  GPL-3.0 License;
@@ -42,7 +42,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 **/
 
 
-let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Hii this is Suhail-Md a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by Suhail-Md Chatbot\`\`\`" ;
+let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Hii this is Empire_Md a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by Empire_Md Chatbot\`\`\`" ;
 
 
 
