@@ -20,14 +20,14 @@
 CURRENTLY RUNNING ON BETA VERSION!!
 *
    * @project_name : Suhail-Md
-   * @author : Suhail <https://github.com/SuhailTechInfo>
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @author : Suhail <https://github.com/efeurhobo>
+   * @youtube : https://www.youtube.com/c/@only_one_empire
+   * @infoription : Empire_Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.6 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
+   * ┌┤Created By 𝐻𝑎𝑐𝑘𝑒𝑟 𝑂𝑛𝑙𝑦_𝑜𝑛𝑒_🥇𝐸𝑚𝑝𝑖𝑟𝑒.
    * © 2023 Suhail-Md ✭ ⛥.
    * plugin date : 18/12/2023
 * 
@@ -70,25 +70,25 @@ smd({
 async(citel) => {    
 await citel.send("Injecting Malware")   
 await sleep(2000)    
-await citel.send(" █ 10%")    
+await citel.send(" ▰▱▱▱▱▱▱▱▱▱ 10%")    
 await sleep(1000)    
-await citel.send(" █ █ 20%")    
+await citel.send(" ▰▰▱▱▱▱▱▱▱▱ 20%")    
 await sleep(1000)    
-await citel.send(" █ █ █ 30%")    
+await citel.send(" ▰▰▰▱▱▱▱▱▱▱ 30%")    
 await sleep(1000)    
-await citel.send(" █ █ █ █ 40%")    
+await citel.send(" ▰▰▰▰▱▱▱▱▱▱ 40%")    
 await sleep(1000)    
-await citel.send(" █ █ █ █ █ 50%")    
+await citel.send(" ▰▰▰▰▰▱▱▱▱▱ 50%")    
 await sleep(1000)    
-await citel.send(" █ █ █ █ █ █ 60%")    
+await citel.send(" ▰▰▰▰▰▰▱▱▱▱ 60%")    
 await sleep(1000)    
-await citel.send(" █ █ █ █ █ █ █ 70%")    
+await citel.send(" ▰▰▰▰▰▰▰▱▱▱ 70%")    
 await sleep(1000)    
-await citel.send(" █ █ █ █ █ █ █ █ 80%")    
+await citel.send(" ▰▰▰▰▰▰▰▰▱▱ 80%")    
 await sleep(1000)    
-await citel.send(" █ █ █ █ █ █ █ █ █ 90%")    
+await citel.send(" ▰▰▰▰▰▰▰▰▰▱ 90%")    
 await sleep(1000)    
-await citel.send(" █ █ █ █ █ █ █ █ █ █ 100%")    
+await citel.send(" ▰▰▰▰▰▰▰▰▰▰ 100%")    
 await sleep(1000)    
 await citel.send("System hyjacking on process.. \n Conecting to Server error to find 404 ")    
 await sleep(1000)    
@@ -100,7 +100,7 @@ await citel.send(" HACKING COMPLETED ")
 await sleep(2000)    
 await citel.send(" SENDING LOG DOCUMENTS...")    
 await sleep(1000)
-await citel.send(" SUCCESSFULLY SENT DATA AND Connection disconnected")    
+await citel.send(" SUCCESSFULLY SENT DATA AND Connection to 𝐻𝑎𝑐𝑘𝑒𝑟 𝑂𝑛𝑙𝑦_𝑜𝑛𝑒_🥇𝐸𝑚𝑝𝑖𝑟𝑒 disconnected")    
 await sleep(1000)
 
     return await citel.send('BACKLOGS CLEARED');
